@@ -47,6 +47,16 @@ body{
     font-weight: 200;
 }
 
+.timer{
+    font-family: agranTHIN, sans-serif;
+    position: absolute;
+    top: 35pt;
+    left: 40pt;
+    font-size: 20pt;
+    margin: 0%;
+    padding: 0%;
+}
+
 #intro{
     font-family: agran, Times, serif;
     font-size: 17px;
