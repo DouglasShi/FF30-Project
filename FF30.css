@@ -87,14 +87,15 @@ body{
 
 .page1rect{
     position: absolute;
-    left: 30%;
+    left: 49%;
     top: 50%;
     transform: translate(-50%,-41.5%);
-    width: 750px;
-    height: 525px;
+    width: 90%;
+    height: 67%;
     background-color: rgb(255, 255, 255);
     z-index: -1;
 }
+
 
 .downIcon{
     top: 725px;
